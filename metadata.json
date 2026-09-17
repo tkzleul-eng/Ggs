@@ -1,0 +1,8 @@
+{
+  "name": "Text to Speech",
+  "description": "Convert typed text into natural speech with customizable voice styles, real-time playback, audio controls, and exportable sound clips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
